@@ -11,7 +11,7 @@
     </style>
 </head>
 <body>
-    <h1>Bienvenido a mi chatbot</h1>
+    <h1>Bienvenido a mi Asistente Virtual</h1>
     <div id="chatbot"></div>
     <script type="text/javascript">
         (function(d, t) {
